@@ -33,18 +33,4 @@ def ccc(text:str, offset: int, mode: str):
 
 @app.get("/fence/encrypt?text=")
 def Fences():
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    pass
